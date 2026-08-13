@@ -158,19 +158,19 @@ bottom: 30px; /* Joga a barra preenchida exatamente em cima do elemento '.barra'
 /* Estado: Senha Fraca (25% de preenchimento em vermelho) */
 .fraca {
 width: 25%;
-background-color: #E71B32;
+background-color: #000000;
 }
 
 /* Estado: Senha Média (50% de preenchimento em amarelo) */
 .media {
-background-color: #FAF408;
+background-color: #cf0505;
 
 width: 50%;
 }
 
 /* Estado: Senha Forte (100% de preenchimento em verde) */
 .forte {
-background-color: #00FF85;
+background-color: #f7f8f8;
 width: 100%;
 }
 
